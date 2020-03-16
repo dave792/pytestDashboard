@@ -1,0 +1,16 @@
+pytest --es-address localhost:9200 test_calc_class.py
+
+
+Pytest : command to run the pytest
+
+
+--es-address   <address of the elastic search server> example  localhost:9200
+The results of the test will be saved to the server. by default the document index is test_data  localhost:9200/test_data
+
+
+
+pytest module to run  eg  test_calc_class.py  . You can also target an entire folder, just as you would when running pytest
+
+
+
+

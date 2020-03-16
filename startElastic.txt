@@ -1,0 +1,6 @@
+# Start Elastic database
+
+Open command line and run the below command:
+
+sudo -i service elasticsearch start
+
