@@ -34,3 +34,20 @@ npm run dev
 
 The React application will run on port 3000 and the server port 5000.
 
+##################################################
+pytese elk reporter and elasticsearch
+
+install pytest elk reporter
+
+```
+pip install pytest-elk-reporter
+```
+
+Start your elasticsearch server
+
+```
+Windows:  .\bin\elasticsearch.bat
+
+Linux: sudo -i service elasticsearch start
+```
+
