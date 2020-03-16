@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Clone the project, change into the directory and install the dependencies.
 
 ```bash
-git clone https://github.com/philnash/react-express-starter.git
-cd react-express-starter
+git clone https://github.com/dave792/pytestDashboard.git
+cd root of your repo clone
 npm install
 ```
 
@@ -32,8 +32,5 @@ Run both applications together with the command:
 npm run dev
 ```
 
-The React application will run on port 3000 and the server port 3001.
+The React application will run on port 3000 and the server port 5000.
 
-## React Twilio starter
-
-The [twilio branch](https://github.com/philnash/react-express-starter/tree/twilio) is a similar setup but also provides endpoints with basic [Access Tokens](https://www.twilio.com/docs/iam/access-tokens) for [Twilio Programmable Chat](https://www.twilio.com/docs/chat) and [Twilio Programmable Video](https://www.twilio.com/docs/video). You can use the project as a base for building React chat or video applications.
